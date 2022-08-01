@@ -1,0 +1,19 @@
+body{
+background-color: gray;
+color: #fff;
+padding: 10px;
+
+}
+.everything{
+	display:flex;
+	flex-direction:column;
+	justify-content:center;
+	align-items:center;
+}
+#heading{
+	float:center;
+}
+
+#shelf{
+	float:center;
+}
